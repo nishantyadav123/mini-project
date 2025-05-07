@@ -36,12 +36,12 @@ This project was built under the valuable mentorship of:
 ## 🎥 Watch the Demo
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch Demo on YouTube">
+  <a href="https://drive.google.com/file/d/1eDRQ5rZlcCU54VRyxfNbAOQCgtOiErj7/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive" alt="Watch Demo on Google Drive">
   </a>
 </p>
 
-> 🎬 See the chatbot in action — explore its UI, features, and response flow.
+> 🎬 See the chatbot in action — explore its UI, features, and real-time interaction.
 
 ---
 
